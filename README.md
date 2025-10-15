@@ -42,7 +42,7 @@
 <!---->
 
 <a href="https://github.com/mthu2510">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyn21012003&hide_progress=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthu2510&hide_progress=true&theme=tokyonight" />
 </a>
 
 ## 📊 GitHub Stats
